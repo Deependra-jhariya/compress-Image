@@ -67,13 +67,13 @@ export const IMAGE_FEATURES: ImageFeature[] = [
         color: '#6b7280',
         gradient: ['#6b7280', '#9ca3af'],
     },
-    {
-        id: ImageFeatureType.REMOVE_BACKGROUND,
-        title: 'Remove Background',
-        description: 'Remove background with adjustable sensitivity',
-        icon: '✨',
-        route: 'RemoveBackgroundScreen',
-        color: '#14b8a6',
-        gradient: ['#14b8a6', '#2dd4bf'],
-    },
+    // {
+    //     id: ImageFeatureType.REMOVE_BACKGROUND,
+    //     title: 'Remove Background',
+    //     description: 'Remove background with adjustable sensitivity',
+    //     icon: '✨',
+    //     route: 'RemoveBackgroundScreen',
+    //     color: '#14b8a6',
+    //     gradient: ['#14b8a6', '#2dd4bf'],
+    // },
 ];
